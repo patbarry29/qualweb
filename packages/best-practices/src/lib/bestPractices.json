@@ -314,5 +314,25 @@
         "element": "html"
       }
     }
+  },
+  "QW_BP30": {
+    "name": "Voice input is available",
+    "code": "QW-BP30",
+    "description": "Ensures that the chatbot supports voice input",
+    "metadata": {
+      "target": {
+        "element": "html"
+      }
+    }
+  },
+  "QW_BP31": {
+    "name": "Voice output is available",
+    "code": "QW-BP31",
+    "description": "Ensures that the chatbot is able to provide voice output",
+    "metadata": {
+      "target": {
+        "element": "html"
+      }
+    }
   }
 }

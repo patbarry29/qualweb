@@ -86,6 +86,9 @@ class BestPractices {
       }
     }
     
+    this.executeBP('QW-BP30', 'html', report);
+    this.executeBP('QW-BP31', 'html', report);
+    
     return report;
   }
 }
